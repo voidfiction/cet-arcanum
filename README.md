@@ -1,3 +1,4 @@
+```
 Info about this table:
   Game Process: Arcanum.exe
   Game Version: see history below (tested with the Steam version modded by unofficial patch 2.0.2 by Drog Black Tooth)
@@ -16,3 +17,4 @@ History:
   2020-11-08: added scripts getting the main character pointers.
 Updates:
   https://opencheattables.org/
+```
